@@ -1,0 +1,6 @@
+Vamos a utilizar este repositorio de GitHub.
+
+Tomar en cuenta:
+1.- Vamos a trabajar con React Native, y Expo
+2.- Sigue pendiente temas sobre el servidor y base de datos.
+3.- A Chambear :D
